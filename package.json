@@ -39,6 +39,7 @@
   "devDependencies": {
     "app-module-path": "^2.2.0",
     "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
     "conventional-changelog-lint": "^2.1.1",
     "eslint": "^5.16.0",
     "eslint-config-gemini-testing": "^2.8.0",

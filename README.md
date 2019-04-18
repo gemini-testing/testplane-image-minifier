@@ -3,7 +3,7 @@
 [![NPM version](https://img.shields.io/npm/v/hermione-image-minifier.svg?style=flat)](https://www.npmjs.org/package/hermione-image-minifier)
 [![Build Status](https://travis-ci.org/gemini-testing/hermione-image-minifier.svg?branch=master)](https://travis-ci.org/gemini-testing/hermione-image-minifier)
 
-Plugin for [hermione](https://github.com/gemini-testing/hermione) to minificate reference images (uses [optipng](https://github.com/imagemin/optipng-bin).
+Plugin for [hermione](https://github.com/gemini-testing/hermione) to minificate reference images (uses [optipng](https://github.com/imagemin/optipng-bin)).
 
 ## Installation
 
