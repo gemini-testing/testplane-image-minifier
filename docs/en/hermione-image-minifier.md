@@ -6,6 +6,8 @@ Use the `hermione-image-minifier` plugin to compress images (screenshots) in you
 
 The plugin supports 8 compression levels: from 0 (do not apply compression) to 7 (maximum compression level).
 
+Compression is lossless.
+
 ### How does it work?
 
 At startup, the plugin subscribes to the `UPDATE_REFERENCE` event, which Hermione sends in the following cases:
